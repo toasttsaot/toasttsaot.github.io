@@ -107,13 +107,29 @@ aaa 2b 大（小）无寿</p>
   <entry>
     <title>2023acm总结报告</title>
     <url>/2023/12/28/2023acm%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/</url>
-    <content><![CDATA[<h2 id="题目总量"><a class="markdownIt-Anchor" href="#题目总量">#</a> 题目总量</h2>
-<h3 id="luogu"><a class="markdownIt-Anchor" href="#luogu">#</a> luogu</h3>
-<p>！<a href="/images/test1.png">test</a></p>
+    <content><![CDATA[<h1 id="题目总量证明"><a class="markdownIt-Anchor" href="#题目总量证明">#</a> 题目总量证明</h1>
+<p>！<a href="/images/codeforces/2023.12.28.png">codeforces 截图</a><br>
+！<a href="/images/luogu/luogu_list.png">luogu 题单截图</a><br>
+！<a href="/images/luogu/all_questions.png">luogu 总题量截图</a><br>
+！<a href="/images/luogu/pg1.png">luogu 提交 1 截图</a><br>
+！<a href="/images/luogu/pg2.png">luogu 提交 2 截图</a><br>
+！<a href="/images/luogu/pg3.png">luogu 提交 3 截图</a><br>
+！<a href="/images/luogu/pg4.png">luogu 提交 4 截图</a><br>
+！<a href="/images/luogu/pg5.png">luogu 提交 5 截图</a><br>
+！<a href="/images/luogu/pg6.png">luogu 提交 6 截图</a><br>
+！<a href="/images/luogu/pg7.png">luogu 提交 7 截图</a><br>
+！<a href="/images/luogu/graph.png">luogu 近期提交截图</a></p>
+<h1 id="逐题分析"><a class="markdownIt-Anchor" href="#逐题分析">#</a> 逐题分析</h1>
+<h2 id="luogu"><a class="markdownIt-Anchor" href="#luogu">#</a> luogu</h2>
+<h1 id="总结"><a class="markdownIt-Anchor" href="#总结">#</a> 总结</h1>
 ]]></content>
       <tags>
         <tag>acm</tag>
         <tag>刷题</tag>
+        <tag>洛谷</tag>
+        <tag>codeforces</tag>
+        <tag>vj</tag>
+        <tag>zjut新生赛</tag>
       </tags>
   </entry>
 </search>

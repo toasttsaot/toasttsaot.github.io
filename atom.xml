@@ -6,7 +6,7 @@
   <link href="https://toasttsaot.github.io/atom.xml" rel="self"/>
   
   <link href="https://toasttsaot.github.io/"/>
-  <updated>2023-12-28T08:02:32.835Z</updated>
+  <updated>2023-12-28T08:55:35.360Z</updated>
   <id>https://toasttsaot.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://toasttsaot.github.io/2023/12/28/2023acm%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/"/>
     <id>https://toasttsaot.github.io/2023/12/28/2023acm%E6%80%BB%E7%BB%93%E6%8A%A5%E5%91%8A/</id>
     <published>2023-12-28T07:29:59.000Z</published>
-    <updated>2023-12-28T08:02:32.835Z</updated>
+    <updated>2023-12-28T08:55:35.360Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;题目总量&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目总量&quot;&gt;#&lt;/a&gt; 题目总量&lt;/h2&gt;
-&lt;h3 id=&quot;luogu&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#luogu&quot;&gt;#&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;题目总量证明&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#题目总量证明&quot;&gt;#&lt;/a&gt; 题目总量证明&lt;/h1&gt;
+&lt;p&gt;！&lt;a href=&quot;/images/codeforces/2023.12.28.png&quot;&gt;codeforces</summary>
         
       
     
@@ -39,6 +39,14 @@
     <category term="acm" scheme="https://toasttsaot.github.io/tags/acm/"/>
     
     <category term="刷题" scheme="https://toasttsaot.github.io/tags/%E5%88%B7%E9%A2%98/"/>
+    
+    <category term="洛谷" scheme="https://toasttsaot.github.io/tags/%E6%B4%9B%E8%B0%B7/"/>
+    
+    <category term="codeforces" scheme="https://toasttsaot.github.io/tags/codeforces/"/>
+    
+    <category term="vj" scheme="https://toasttsaot.github.io/tags/vj/"/>
+    
+    <category term="zjut新生赛" scheme="https://toasttsaot.github.io/tags/zjut%E6%96%B0%E7%94%9F%E8%B5%9B/"/>
     
   </entry>
   
